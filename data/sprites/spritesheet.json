@@ -1,0 +1,762 @@
+{
+  "meta": {
+    "type": "sharpsheet",
+    "version": "1",
+    "app": "https://github.com/cpietsch/sharpsheet"
+  },
+  "spritesheets": [
+    {
+      "image": "sprite-1024-0.jpg",
+      "sprites": [
+        {
+          "name": "Loc22W1b6p0_7",
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 85,
+            "h": 128
+          }
+        },
+        {
+          "name": "McBW7b1p6_3",
+          "position": {
+            "x": 88,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p6_2",
+          "position": {
+            "x": 218,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p6_1",
+          "position": {
+            "x": 348,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p5_1",
+          "position": {
+            "x": 478,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p4_9",
+          "position": {
+            "x": 608,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p4_8",
+          "position": {
+            "x": 738,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p4_7",
+          "position": {
+            "x": 868,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p4_6",
+          "position": {
+            "x": 1,
+            "y": 131
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p4_5",
+          "position": {
+            "x": 131,
+            "y": 131
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p4_4",
+          "position": {
+            "x": 261,
+            "y": 131
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p4_3",
+          "position": {
+            "x": 391,
+            "y": 131
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p4_2",
+          "position": {
+            "x": 521,
+            "y": 131
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p4_1",
+          "position": {
+            "x": 651,
+            "y": 131
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p3_5",
+          "position": {
+            "x": 781,
+            "y": 131
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p3_4",
+          "position": {
+            "x": 1,
+            "y": 218
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p3_3",
+          "position": {
+            "x": 131,
+            "y": 218
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p3_2",
+          "position": {
+            "x": 261,
+            "y": 218
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "McBW7b1p3_1",
+          "position": {
+            "x": 391,
+            "y": 218
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc560W9b0p0_2",
+          "position": {
+            "x": 521,
+            "y": 218
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc560W9b0p0_1",
+          "position": {
+            "x": 651,
+            "y": 218
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b4p0_2",
+          "position": {
+            "x": 781,
+            "y": 218
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b4p0_1",
+          "position": {
+            "x": 1,
+            "y": 305
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b3p0_3",
+          "position": {
+            "x": 131,
+            "y": 305
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b3p0_2",
+          "position": {
+            "x": 261,
+            "y": 305
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b3p0_1",
+          "position": {
+            "x": 391,
+            "y": 305
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_9",
+          "position": {
+            "x": 521,
+            "y": 305
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_8",
+          "position": {
+            "x": 651,
+            "y": 305
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_7",
+          "position": {
+            "x": 781,
+            "y": 305
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_6",
+          "position": {
+            "x": 1,
+            "y": 392
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_5",
+          "position": {
+            "x": 131,
+            "y": 392
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_4",
+          "position": {
+            "x": 261,
+            "y": 392
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_3",
+          "position": {
+            "x": 391,
+            "y": 392
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_20",
+          "position": {
+            "x": 521,
+            "y": 392
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_2",
+          "position": {
+            "x": 651,
+            "y": 392
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_19",
+          "position": {
+            "x": 781,
+            "y": 392
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_18",
+          "position": {
+            "x": 1,
+            "y": 479
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_17",
+          "position": {
+            "x": 131,
+            "y": 479
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_16",
+          "position": {
+            "x": 261,
+            "y": 479
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_15",
+          "position": {
+            "x": 391,
+            "y": 479
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_14",
+          "position": {
+            "x": 521,
+            "y": 479
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_13",
+          "position": {
+            "x": 651,
+            "y": 479
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_12",
+          "position": {
+            "x": 781,
+            "y": 479
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_11",
+          "position": {
+            "x": 1,
+            "y": 566
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_10",
+          "position": {
+            "x": 131,
+            "y": 566
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc551W9b2p1_1",
+          "position": {
+            "x": 261,
+            "y": 566
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc430W6b0p0_3",
+          "position": {
+            "x": 391,
+            "y": 566
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc430W6b0p0_2",
+          "position": {
+            "x": 521,
+            "y": 566
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc430W6b0p0_1",
+          "position": {
+            "x": 651,
+            "y": 566
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc299W4b0p0_3",
+          "position": {
+            "x": 781,
+            "y": 566
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc299W4b0p0_2",
+          "position": {
+            "x": 1,
+            "y": 653
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc299W4b0p0_1",
+          "position": {
+            "x": 131,
+            "y": 653
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b9p0_4",
+          "position": {
+            "x": 261,
+            "y": 653
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b9p0_3",
+          "position": {
+            "x": 391,
+            "y": 653
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b9p0_2",
+          "position": {
+            "x": 521,
+            "y": 653
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b9p0_1",
+          "position": {
+            "x": 651,
+            "y": 653
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b8p0_2",
+          "position": {
+            "x": 781,
+            "y": 653
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b8p0_1",
+          "position": {
+            "x": 1,
+            "y": 740
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b6p0_6",
+          "position": {
+            "x": 131,
+            "y": 740
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b6p0_5",
+          "position": {
+            "x": 261,
+            "y": 740
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b6p0_4",
+          "position": {
+            "x": 391,
+            "y": 740
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b6p0_3",
+          "position": {
+            "x": 521,
+            "y": 740
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b6p0_2",
+          "position": {
+            "x": 651,
+            "y": 740
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc22W1b6p0_1",
+          "position": {
+            "x": 781,
+            "y": 740
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc158W3b0p0_3",
+          "position": {
+            "x": 1,
+            "y": 827
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc158W3b0p0_2",
+          "position": {
+            "x": 131,
+            "y": 827
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc158W3b0p0_1",
+          "position": {
+            "x": 261,
+            "y": 827
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        },
+        {
+          "name": "Loc020W1b8p0_1",
+          "position": {
+            "x": 391,
+            "y": 827
+          },
+          "dimension": {
+            "w": 128,
+            "h": 85
+          }
+        }
+      ]
+    }
+  ]
+}
